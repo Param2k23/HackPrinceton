@@ -79,9 +79,3 @@ A central dashboard providing transparency and a space for positive memory reinf
   * **Professional Resource Integration:** Seamlessly integrate with external mental health resources and family counseling tools for professional, proactive support when needed.
 
 -----
-
------
-
-## 📄 License
-
-This project is licensed under the [Specify your license, e.g., MIT License] - see the `LICENSE` file for details.
